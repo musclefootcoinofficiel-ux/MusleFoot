@@ -1,0 +1,51 @@
+A fitness-themed idle game where users click a muscular foot icon to earn $MUSCLEFOOT tokens. The app must feel like a premium Telegram mini-app (Dark Mode, Neon accents).
+
+Technical Structure: Create a Single Page Application (SPA) with a fixed Bottom Navigation Bar containing 4 tabs: INFO, PLAY, BOOST, WALLET. Use localStorage to save all progress, balances, and upgrades.
+
+1. [PLAY TAB] - Main Game (Default)
+
+Visuals: A central clickable "Muscular Foot" character (with sunglasses and a crown).
+
+Mechanics: Each tap earns $MUSCLEFOOT. Add a "+1" floating text animation at the tap location and a "shake" effect on the character.
+
+Endurance System: A "Stamina" progress bar that depletes per click and recharges over time (1 unit/sec).
+
+Alert Banner: A top sticky banner saying: "🚀 $MUSCLEFOOT IS LIVE ON PUMP.FUN! CLICK TO BUY!" (Link to be added later).
+
+2. [BOOST TAB] - Store
+
+Upgrades: * "Intense Training": Increases tokens per tap.
+
+"Automatic Gym": Passive income (tokens per second).
+
+"Pro Equipment": Increases max Stamina capacity.
+
+Scaling: Prices must increase by 50% after each purchase.
+
+3. [INFO TAB] - Roadmap & Tokenomics
+
+Roadmap (Timeline style):
+
+Phase 1: Warm-up (Launch & Community).
+
+Phase 2: Hypertrophy & Airdrop Season 1 (Snapshots & Referrals).
+
+Phase 3: The Big Lift & Listing (Token Generation Event & Withdrawals).
+
+Phase 4: Global Legend (Real-world fitness partnerships).
+
+Tokenomics Table: Total Supply: 1,000,000,000. Distribution: 65% Community Airdrop, 15% Liquidity (Locked), 10% Marketing, 5% Dev, 5% Reserve.
+
+4. [WALLET TAB] - Finances & Airdrop
+
+Display: Huge $MUSCLEFOOT balance and an "Estimated Airdrop Allocation" counter.
+
+Withdrawal Logic: * Thresholds: Users can only withdraw at specific milestones (50,000 / 150,000 / 500,000 tokens).
+
+Progress Bar: Show a "Progress to next withdrawal" bar.
+
+Input: Field for "Solana Wallet Address".
+
+Withdraw Button: Disabled if below 50k. If clicked, show: "Request submitted! Processing: 24-48h."
+
+External Link: A large, pulsing button: "TRADE ON PUMP.FUN".

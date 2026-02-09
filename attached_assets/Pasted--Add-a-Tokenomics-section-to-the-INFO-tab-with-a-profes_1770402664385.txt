@@ -1,0 +1,77 @@
+"Add a 'Tokenomics' section to the INFO tab with a professional breakdown of the app's revenue:
+
+1. The Vision: > - Title: '💎 Sustainable Economy'
+
+Subtitle: 'Every SOL spent in the game fuels the $MF$ ecosystem.'
+
+2. Revenue Distribution (The 75/20/5 Rule):
+
+Create a visual breakdown (using progress bars or a simple pie chart logic) for all SOL revenue (God Packs, Refills, etc.):
+
+💧 75% - Liquidity Pool & Buybacks: To ensure a stable and rising floor price for the $MF$ token.
+
+🛡️ 20% - Marketing & Operations: To fund ads, server costs, and global expansion.
+
+👨‍💻 5% - Dev Fund: To reward the team and fund continuous technical updates.
+
+3. Token Info:
+
+Display placeholders for:
+
+Total Supply: 1,000,000,000 $MF$
+
+Network: Solana (SPL)
+
+Contract Address: 'TBA (To Be Announced)'
+
+4. Styling:
+
+Use a clean, financial dashboard look.
+
+Each category should have its own color: Blue for Liquidity, Orange for Marketing, Purple for Dev.
+
+Add a brief text explaining: 'Transparency is our priority. Smart contracts will automatically route these funds to ensure project longevity.'"                                                                                                  "Transform the Roadmap tab into a high-end visual timeline:
+
+1. Design Style:
+
+Use a vertical timeline with a glowing neon line (Cyan color) centered or on the left.
+
+Each milestone should be a Glassmorphism Card (semi-transparent background with a blur effect).
+
+Add a 'Glow' effect on the borders of the current active phase.
+
+2. The Milestones (Content):
+
+Q1 2026: The Awakening (DONE): >   - Launch of MuscleFoot Mini-App.
+
+Basic Tapping & Energy mechanics.
+
+Wallet Connection (Solana).
+
+Q2 2026: Hypertrophy (IN PROGRESS): >   - Muscle God Pack (10 SOL) release.
+
+Leveling System & $MF$ Token economy.
+
+Global Leaderboard.
+
+Q3 2026: Mass Gain (UPCOMING): >   - Daily Challenges & Quests.
+
+Referral System (Invite-to-Earn).
+
+Partnership with Gym Influencers.
+
+Q4 2026: Full Pump (FUTURE): >   - $MF$ Token TGE (Token Generation Event).
+
+CEX/DEX Listings.
+
+NFT Muscle Gear (Equipment).
+
+3. Interactivity:
+
+When hovering or tapping a card, it should scale up slightly (1.05x).
+
+Add a 'Progress Bar' at the very top of the page showing 'Project Completion: 45%'.
+
+4. Aesthetics: > - Use icons for each phase (e.g., 🥚 for Genesis, 💪 for Hypertrophy, 🚀 for Mass Gain, 🏛️ for Listing).
+
+The background should have a subtle 'grid' pattern to reinforce the tech/crypto vibe."
